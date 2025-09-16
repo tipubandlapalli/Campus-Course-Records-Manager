@@ -134,21 +134,21 @@ java -ea -cp target/classes edu.ccrm.cli.Launcher
 
 ## 🎮 Usage (Quick Guide)
 See **USAGE.md** for sample commands and data files.
-
+![project-set-up.png](resources/project-set-up.png)
 ---
 ## 🖥 Screen Shots
 # 1. java installation verification
-![java-verification.png](github.com/tipubandlapalli/Campus-Course-Records-Manager/blob/main/resources/java-verification.png?raw=true)
+![java-verification.png](https://raw.githubusercontent.com/tipubandlapalli/Campus-Course-Records-Manager/refs/heads/main/resources/java-verification.png)
 
 # 2. project set up and run ( run the commands as described above)
-![project-set-up.png](github.com/tipubandlapalli/Campus-Course-Records-Manager/blob/main/resources/project-set-up.png?raw=true)
+![project-set-up.png](https://raw.githubusercontent.com/tipubandlapalli/Campus-Course-Records-Manager/refs/heads/main/resources/project-set-up.png)
 ```
 mvn clean install
 mvn -pl ccrm-app exec:java
 ```
 
 # 3. demo menu
-![menu.png](github.com/tipubandlapalli/Campus-Course-Records-Manager/blob/main/resources/menu.png?raw=true)
+![menu.png](https://raw.githubusercontent.com/tipubandlapalli/Campus-Course-Records-Manager/refs/heads/main/resources/menu.png)
 
 # 4. project folders structure
 ![project-folders-structure.png](https://raw.githubusercontent.com/tipubandlapalli/Campus-Course-Records-Manager/refs/heads/main/resources/project-folders-structure.png)
