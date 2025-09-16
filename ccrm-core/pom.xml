@@ -1,0 +1,10 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>edu.ccrm</groupId>
+    <artifactId>ccrm-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <artifactId>ccrm-core</artifactId>
+  <packaging>jar</packaging>
+</project>

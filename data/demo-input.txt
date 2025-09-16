@@ -1,0 +1,18 @@
+1
+1
+R1001
+Alice Kumar
+alice@example.com
+2
+add
+CS-101
+Database Systems
+4
+Dr. Navathe
+CSE
+3
+1000
+CS-101
+4
+2
+0
