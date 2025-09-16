@@ -137,19 +137,19 @@ See **USAGE.md** for sample commands and data files.
 
 ---
 ## 🖥 Screen Shots
-# java installation verification
+# 1. java installation verification
 ![java-verification.png](resources/java-verification.png)
 
-# project set up and run ( run the commands as described above)
+# 2. project set up and run ( run the commands as described above)
 ![project-set-up.png](resources/project-set-up.png)
 ```
 mvn clean install
 mvn -pl ccrm-app exec:java
 ```
 
-# demo menu
+# 3. demo menu
 ![menu.png](resources/menu.png)
 
-# project folders structure
+# 4. project folders structure
 ![project-folders-structure.png](resources/project-folders-structure.png)
----# Campus-Course-Records-Manager
+---
